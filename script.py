@@ -1,3 +1,6 @@
+# CMPUT404 - Lab 1
+# Ken Li
+
 import requests
 
 # print("requests version: %s" % requests.__version__)
