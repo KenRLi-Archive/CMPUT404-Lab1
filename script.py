@@ -13,4 +13,4 @@ import requests
 r = requests.get('https://raw.githubusercontent.com/KenRLi/CMPUT404-Lab1/master/script.py')
 
 # print("Status code: %s" % r.status_code)
-print("GitHub Content:\n---\n%s\n---" % r.text)
+print("GitHub Content:\n---\n%s---" % r.text)
