@@ -11,3 +11,5 @@ $ source venv/bin/activate
 $ pip install -r requirements.txt
 $ python script.py
 ```
+### Note:
+* My `requirements.txt` includes `pylint` which my vscode installs automatically
